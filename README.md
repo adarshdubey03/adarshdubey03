@@ -14,8 +14,8 @@
 - 🧑‍🏫 **StepUpNow** – Mentorship platform with payments  
   [Live Site](https://step-up-now.vercel.app/) | [GitHub](https://github.com/adarshdubey03/StepUpNow)
 
-- 🌐 **Pavan Glass Works** – Business website for a glass works firm  
-  (Client project – will be live soon)
+- 🏢 **Ambe Glass Works** – Business website for a glass works firm  
+  [Live Site](https://www.ambeglassworks.in)
 
 - 📦 More projects coming...
 
@@ -42,6 +42,7 @@
 
 ### ⚡ Fun Fact
 
-> I’m from an Integrated MSc Math background — now turning into a full-stack dev + future AI/ML engineer 🚀
+> I’m from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat – an Integrated MSc Mathematics student who's turning into a full-stack developer + future AI/ML engineer 🚀
+
 
 
