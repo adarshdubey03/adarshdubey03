@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
+<h1 align="center">Hi, I'm Adarsh Dubey</h1>
 <h3 align="center">🧠 Math + Code | Full Stack Developer | Building StepUpNow 🚀</h3>
 
 - 🔭 I’m currently working on: [StepUpNow](https://step-up-now.vercel.app/)
