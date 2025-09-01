@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: [StepUpNow](https://step-up-now.vercel.app/)
 - 🌱 Currently learning: AI/ML + Advanced Full Stack Dev
 - 💬 Ask me about: React, Next.js, MongoDB, Firebase, Razorpay
-- 📫 Reach me at: adarshdubey03@gmail.com
+- 📫 Reach me at: adarshdubeyisro03@gmail.com
 - 📄 Portfolio / Resume site coming soon!
 
 ---
