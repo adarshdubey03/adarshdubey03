@@ -6,10 +6,10 @@
 ### 🧠 About Me
 
 - 🎓 Integrated MSc Mathematics student at SVNIT Surat
-- ⚙️ Build production-ready full-stack applications
-- 🔐 Strong focus on backend architecture, authentication & payments
-- 🌍 Exploring open-source ecosystems and scalable system design
-- 🚀 Passionate about building things that actually work in production
+- ⚙️ Build production-ready full-stack systems with clean, maintainable architecture
+- 🌍 Deeply interested in open-source architecture, contribution workflows, and community-driven development
+- 🔐 Strong focus on scalable backend logic, data modeling, and standards-driven development
+- 🤝 Interested in collaborative software that evolves through community feedback
 
 ---
 
