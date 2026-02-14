@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Integrated MSc Mathematics student at SVNIT Surat
+- 🎓 Integrated MSc Mathematics student at NIT Surat
 - ⚙️ Build production-ready full-stack systems with clean, maintainable architecture
 - 🌍 Deeply interested in open-source architecture, contribution workflows, and community-driven development
 - 🔐 Strong focus on scalable backend logic, data modeling, and standards-driven development
