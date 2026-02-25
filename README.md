@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">Adarsh Dubey</h1>
-<h3 align="center">Open-Source Backend Engineer in the Making • Systems Thinker • GSoC 2026 Aspirant</h3>
+<h3 align="center">Full Stack Engineer • Backend-Focused • Systems Thinker</h3>
 
 ---
 
@@ -24,9 +24,12 @@
 
 <p align="left">
 🎓 Integrated MSc Mathematics student at NIT Surat<br><br>
-🔎 Focused on backend architecture, database modeling, and controller-level reasoning<br><br>
-🌍 Actively contributing to Joomla (5.4-dev / 6.1-dev) and preparing a structured backend modernization proposal for GSoC 2026<br><br>
-⚙️ I build production-ready systems with long-term scalability and clean abstractions in mind
+
+🔎 Strong interest in backend architecture, data modeling, and controller-level system design<br><br>
+
+⚙️ I build production-ready full-stack systems with an emphasis on scalability, clean abstractions, and long-term maintainability<br><br>
+
+🌍 Comfortable navigating large codebases, understanding existing patterns, and contributing thoughtfully to collaborative projects
 </p>
 
 ---
@@ -44,63 +47,73 @@
 
 ---
 
-<h3 align="left">🛠 Tech Stack</h3>
+###
 
-### Languages
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-</p>
+<h3 align="left">🛠 Language and Tools</h3>
 
-### Frontend
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-</p>
+###
 
-### Backend
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white" />
-</p>
+<div align="left">
 
-### Database
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
 
-### Dev Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshdubey03&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshdubey03&show_icons=true&cache_seconds=1800" />
 </p>
 
----
-
-<h3 align="left">📚 Problem Solving</h3>
-
-<p align="left">
-• 50+ LeetCode problems solved<br>
-• Actively strengthening DSA and system-level reasoning<br>
-• Comfortable navigating large unfamiliar codebases
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdubey03&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
