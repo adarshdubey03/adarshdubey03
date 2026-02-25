@@ -1,55 +1,47 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adarsh-dubey03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://leetcode.com/u/adarshdubey03/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Adarsh Dubey</h1>
-<h3 align="center">Full Stack Engineer • Backend-Focused • Systems Thinker</h3>
-
----
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-🎓 Integrated MSc Mathematics student at NIT Surat<br><br>
-
-🔎 Strong interest in backend architecture, data modeling, and controller-level system design<br><br>
-
-⚙️ I build production-ready full-stack systems with an emphasis on scalability, clean abstractions, and long-term maintainability<br><br>
-
-🌍 Comfortable navigating large codebases, understanding existing patterns, and contributing thoughtfully to collaborative projects
-</p>
-
----
-
-<h3 align="left">🚀 Projects</h3>
-
-<p align="left">
-<b>StepUpNow – Mentorship Platform</b><br>
-🔗 https://step-up-now.vercel.app/<br>
-💻 https://github.com/adarshdubey03/StepUpNow<br><br>
-
-<b>Ambe Glass Works – Client Project</b><br>
-🔗 https://www.ambeglassworks.in
-</p>
-
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adarshdubey03.adarshdubey03&"  />
+</div>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h1 align="center">Hi, I'm Adarsh 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+I'm Adarsh Dubey, an Integrated MSc Mathematics student at NIT Surat.<br><br>
+
+- 🔭 I build production-ready full stack systems with strong backend foundations  
+- 🧠 I focus on architecture, data modeling, and clean controller logic  
+- ⚙️ I enjoy understanding how systems behave under real-world constraints  
+- 🌍 Comfortable navigating large codebases and contributing in collaborative environments  
+- 🚀 Always improving system design, scalability, and long-term maintainability
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -94,6 +86,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
 
@@ -104,22 +99,12 @@
 
 </div>
 
----
+###
 
-<h3 align="left">📊 GitHub Activity</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshdubey03&show_icons=true&cache_seconds=1800" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdubey03&layout=compact&cache_seconds=1800" />
-</p>
-
----
-
-<h3 align="left">📫 Contact</h3>
-
-<p align="left">
-📧 adarshdubeyisro03@gmail.com
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adarshdubey03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+</div>
