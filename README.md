@@ -1,41 +1,104 @@
-<h1 align="center">Hi, I'm Adarsh Dubey</h1>
-<h3 align="center">Full Stack Engineer • System Builder • Shipping Real-World Products 🚀</h3>
+<h1 align="center">Adarsh Dubey</h1>
+<h3 align="center">Open-Source Backend Engineer in the Making • Systems Thinker • GSoC 2026 Aspirant</h3>
 
 ---
 
-### 🧠 About Me
+<h3 align="center">Core Engineering Stack</h3>
 
-- 🎓 Integrated MSc Mathematics student at NIT Surat
-- ⚙️ Build production-ready full-stack systems with clean, maintainable architecture
-- 🌍 Deeply interested in open-source architecture, contribution workflows, and community-driven development
-- 🔐 Strong focus on scalable backend logic, data modeling, and standards-driven development
-- 🤝 Interested in collaborative software that evolves through community feedback
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+</div>
 
 ---
 
-### 🚀 My Key Projects
+## About Me
 
-- 🧑‍🏫 **StepUpNow** – Mentorship platform with payments  
-  [Live Site](https://step-up-now.vercel.app/) | [GitHub](https://github.com/adarshdubey03/StepUpNow)
+🎓 Integrated MSc Mathematics student at NIT Surat  
+🔎 Deeply interested in backend architecture, database modeling, and controller-level system design  
+🧩 Focused on understanding large codebases before proposing structural improvements  
+🌍 Actively contributing to open-source and preparing a serious architectural proposal for Joomla (GSoC 2026)  
 
-- 🏢 **Ambe Glass Works** – Business website for a real client  
-  [Live Site](https://www.ambeglassworks.in)
+I enjoy reading code as much as writing it — especially understanding how data flows through controllers, models, and persistence layers.
 
 ---
 
-### 🛠️ Tech Stack <p align="center"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white" /> </p>
+## Open Source Contributions
+
+**Joomla CMS (5.4-dev / 6.1-dev)**  
+- Investigated many-to-many join duplication issues in `mod_tags_popular`  
+- Proposed SQL-level correction to ensure accurate DISTINCT counting  
+- Auditing AdminController list-action flows for deeper architectural understanding  
+- Studying backend request lifecycle to prepare structured Ajax modernization strategy  
+
+My goal is not just to patch issues, but to understand systemic design decisions.
+
 ---
 
-### 📈 GitHub Stats
+## Systems I’ve Designed & Built
+
+### StepUpNow – Mentorship Platform  
+Live: https://step-up-now.vercel.app/  
+GitHub: https://github.com/adarshdubey03/StepUpNow  
+
+Architecture Highlights:
+- Recurring slot-booking system with reusable weekly availability logic  
+- Razorpay payment → booking verification pipeline  
+- NextAuth authentication with post-login Firebase OTP verification  
+- Persistent state control to prevent redundant verification flows  
+- MongoDB data modeling for mentors, bookings, payments, and availability  
+
+This project reflects full lifecycle ownership: auth → payments → data integrity → UI.
+
+---
+
+### Client Project – Ambe Glass Works  
+Live: https://www.ambeglassworks.in  
+
+- Production-grade deployment  
+- SEO-aware architecture  
+- Real-world client communication & iteration cycle  
+
+---
+
+## Problem Solving & Fundamentals
+
+- 50+ LeetCode problems solved (currently focused on strengthening DSA fundamentals)
+- Strong mathematical foundation supporting logical and structural reasoning
+- Comfortable navigating large unfamiliar codebases
+
+---
+
+## Engineering Philosophy
+
+I prefer reasoning about architecture before writing code.  
+Understanding constraints, data relationships, and flow consistency matters more than adding features quickly.
+
+Clean abstractions scale. Quick hacks don’t.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshdubey03&show_icons=true&count_private=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdubey03&layout=compact&count_private=true&theme=default" />
 </p>
 
 ---
 
-### 📫 Connect
+## Contact
 
-- 📧 Email: adarshdubeyisro03@gmail.com
+📧 adarshdubeyisro03@gmail.com  
